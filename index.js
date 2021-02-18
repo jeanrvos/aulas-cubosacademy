@@ -1,3 +1,1 @@
-let resultado = (2 + 2) /(3 *2);
-
-console.log(resultado);
+console.log('Hello, World!');
